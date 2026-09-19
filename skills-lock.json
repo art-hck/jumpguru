@@ -6,7 +6,9 @@
     "license": "Apache-2.0",
     "paths": {
       "testing-setup": "testing/testing-setup",
-      "navigation-3": "navigation/navigation-3"
+      "navigation-3": "navigation/navigation-3",
+      "adaptive": "jetpack-compose/adaptive",
+      "edge-to-edge": "system/edge-to-edge"
     },
     "files": {
       ".agents/skills/testing-setup/LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
@@ -41,12 +43,28 @@
       ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/results-state.md": "17fbf45258b3c928e300adfa07ec320ffbd591e3209236499c74bbb736a1acec",
       ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/scenes-listdetail.md": "2a19b4d03973c179eb4e4be8f95f9b728af34b55015619dde73dcd72af916e8c",
       ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/scenes-twopane.md": "d0cb99ae3054cf463a598fd348d3d9a07aa4b6805ab22121bdc11561a60b1f64",
-      ".agents/skills/navigation-3/references/android/guide/navigation/type-safe-destinations.md": "ad5f13e3d5ee1bc849d2da5941d4f99a3e2a5748d52fcdfde96d1bc21bf47acb"
+      ".agents/skills/navigation-3/references/android/guide/navigation/type-safe-destinations.md": "ad5f13e3d5ee1bc849d2da5941d4f99a3e2a5748d52fcdfde96d1bc21bf47acb",
+      ".agents/skills/adaptive/LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      ".agents/skills/adaptive/SKILL.md": "e84db465b42709db43740d233b3c78db9e4251ca5be3495703672d6ec7eec3ca",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/flexbox/container-behavior.md": "7a33b15b827dbf21557a2ac808d3e0c2653cf33cc4c58277f2eb94ebfa41aa5f",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/flexbox/get-started.md": "27637326c6a05b46fb5d69143c32df07128f377067ed2541cc007c2c95741360",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/flexbox/index.md": "6323d0edb988ada38596508c520efc99ae8f9ab8f3954f5bfbfe8ee373e0afc7",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/flexbox/item-behavior.md": "94e894a59857662ed784913774a4d0c5bcec7d16468c4c910962a7d806a0e562",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/grid/container-properties.md": "fb12005053f5f040c26c5b74a93c11825d5a27f1802ec7748859b24ee2c030c7",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/grid/get-started.md": "60b98093e021bc214d695dd5c20a49b1747f37a51c2a08a8f2ade37ebb4425c0",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/grid/index.md": "97b1e85bc765b97c1930014a554977abddb12bfd0d638b13ab75932dc287a6d0",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/grid/item-properties.md": "ef0a67039918022d01ac26983b3cc06c798050736d42ffe692c98e3c4517b45a",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/layouts/adaptive/mediaquery/index.md": "1e79df59c053569d5376a618c414b793670fdf35e337d7c8aecce81bf09f90d7",
+      ".agents/skills/adaptive/references/android/develop/ui/compose/tooling/debug.md": "ba62982a079cd1535f904bc784d4a64b1c77bd9ccede9f1e675c48fa44a95397",
+      ".agents/skills/adaptive/references/android/guide/navigation/navigation-3/recipes/material-listdetail.md": "e4781cf0fc691f92c202400a07ebc80424666681f9547e757f660388252cdb29",
+      ".agents/skills/edge-to-edge/LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      ".agents/skills/edge-to-edge/SKILL.md": "4ca04cb6a5330b96e51410bc815f878b4ca642fba46fe5e1ad724c94e04d6eb8"
     }
   },
   "local_skills": [
     "jumpguru-measurement",
     "jumpguru-android-ble",
-    "jumpguru-delivery"
+    "jumpguru-delivery",
+    "jumpguru-ui-ux"
   ]
 }
