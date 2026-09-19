@@ -24,4 +24,4 @@ jobs:
       - name: Check repository infrastructure (not Android)
         run: python3 scripts/check.py
       - name: Check first-party whitespace
-        run: git show --format= --check HEAD -- . ':!.agents/skills/navigation-3' ':!.agents/skills/testing-setup'
+        run: git show --format= --check HEAD -- . ':!.agents/skills/navigation-3' ':!.agents/skills/testing-setup' ':!.agents/skills/adaptive' ':!.agents/skills/edge-to-edge'
