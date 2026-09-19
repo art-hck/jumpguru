@@ -43,7 +43,7 @@ Android-приложение для измерения вертикальных 
 - [Работа агентов](docs/agent-workflow.md), [правила](AGENTS.md), [навыки](docs/skills.md)
 - [Статусы задач, критерии завершения и полномочия](docs/organization.md)
 - [Среда и проверки](docs/development.md)
-- [Первая задача для следующего агента](docs/tasks/JG-001.md)
+- [Первая задача для следующего агента](https://github.com/art-hck/jumpguru/issues/3)
 
 ## Проверка инфраструктуры
 

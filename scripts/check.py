@@ -15,7 +15,7 @@ def check(root: Path) -> list[str]:
     required = (
         'README.md', 'AGENTS.md', 'docs/architecture.md', 'docs/measurement.md',
         'docs/hardware.md', 'docs/roadmap.md', 'docs/development.md',
-        'docs/agent-workflow.md', 'docs/skills.md', 'docs/tasks/JG-001.md',
+        'docs/agent-workflow.md', 'docs/skills.md', '.github/ISSUE_TEMPLATE/task.md',
         '.github/workflows/bootstrap.yml', 'skills-lock.json',
     )
     for name in required:
