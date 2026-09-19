@@ -39,7 +39,9 @@ Android-приложение для измерения вертикальных 
 - [Точность и экспериментальный протокол](docs/measurement.md)
 - [Архитектура и стек](docs/architecture.md)
 - [Требования к интерфейсу и его приёмка](docs/ui-ux.md)
-- [Проверенные сведения о датчике](docs/hardware.md)
+- [Датчик: характеристики и ограничения](docs/hardware.md)
+- [BLE-протокол](docs/hardware/ble-protocol.md), [аппаратные проверки](docs/hardware/validation.md),
+  [источники и расхождения спецификаций](docs/hardware/sources.md)
 - [Работа агентов](docs/agent-workflow.md), [правила](AGENTS.md), [навыки](docs/skills.md)
 - [Статусы задач, критерии завершения и полномочия](docs/organization.md)
 - [Среда и проверки](docs/development.md)
