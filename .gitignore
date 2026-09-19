@@ -1,0 +1,23 @@
+# Local tools and Android outputs
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+.venv/
+__pycache__/
+*.py[cod]
+.worktrees/
+.DS_Store
+
+# Private recordings and generated reports
+local-data/
+artifacts/
+*.apk
+*.aab
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example

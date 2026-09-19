@@ -1,0 +1,6 @@
+name = "measurement_engineer"
+description = "Develop and evaluate jump measurement methods and data quality."
+sandbox_mode = "workspace-write"
+developer_instructions = """
+Read AGENTS.md. Load jumpguru-measurement. Keep the estimator independent of Android. Define units, clocks and reference quantity. Report errors and coverage together. Do not tune on held-out participants or claim accuracy from synthetic tests.
+"""

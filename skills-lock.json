@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "upstream": {
+    "repository": "https://github.com/android/skills",
+    "commit": "b1f707d90904129b5972b3cc6436b568583effe5",
+    "license": "Apache-2.0",
+    "paths": {
+      "testing-setup": "testing/testing-setup",
+      "navigation-3": "navigation/navigation-3"
+    },
+    "files": {
+      ".agents/skills/testing-setup/LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      ".agents/skills/testing-setup/SKILL.md": "a3562643cc3131a086ab150f11b8b2b16deba3650600192f444bb935d932c07f",
+      ".agents/skills/testing-setup/references/android/develop/ui/compose/testing/common-patterns.md": "6e382fbf008b8a0b218d6f798b96dc16d31701eae5ef5753e26e7f25ca110471",
+      ".agents/skills/testing-setup/references/android/studio/preview/compose-screenshot-testing.md": "6fa70297631b46449852297c41795ec5cc38038655bb4a0245fa5d4b2d09d1f3",
+      ".agents/skills/testing-setup/references/android/training/dependency-injection/hilt-testing.md": "5e774a6ab09c0f469b4712ea8c468402b38dd4a19dce9570bacc49ad9af9c814",
+      ".agents/skills/navigation-3/LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      ".agents/skills/navigation-3/SKILL.md": "6fef5b74572fc2e92fd3b0250d79f5da1defb116ac59e93316dabc62296c9ab4",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/index.md": "157fdf56361b81e06407c44d49e563b2fc3c3d82287effbf10ad1933cb99f565",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/migration-guide.md": "c09b5e1a8d8f8a60739a3fadd6652d9873ad86b09c8c29e980a4dfc147e8b0c5",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/animations.md": "50c54d09fe14cb28f27d02cd9aaad4204dfe975a14bc8292b0bd40f61ad5300d",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/basic.md": "f96b02408f311d07c8df16c1867e25598c4bcc1794b52aaaa290a3b377727495",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/basicdsl.md": "d077507172cbf9ed6916899ef2d17b5f9aebcc9d3b46d51725d30166949daa14",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/basicsaveable.md": "93f01733db02f06a66c54bc5372a88688831bad14ded07ad181a16a12b848110",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/bottomsheet.md": "24ac29f14deb7912df58cc1bb504b65e9f31b30dd7daa35a3446f2682a8e57a5",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/common-ui.md": "835be092ff7114870543b4f7fb1f0893157c0ad07e00d70682a1256e95f5f3db",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/conditional-transitions.md": "bb41f81b08f422aaa201d2716f0feaa22705ebc9154d914ade0c25b3d3052063",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/conditional.md": "c34969a85c0d379d6db9af8596f9655c17841cb13bc59477fc29f6e5d12b44c9",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/deeplinks-custommatcher.md": "9fbfccbf29e03d24de0caa667c826d8971984e5c6b5aba2e3ed9c057357c2fac",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/deeplinks-staticuri.md": "f131fe946f25f108601b66dcdb62be6add8cf685437fc78621d8b92dd67bd201",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/deeplinks-syntheticbackstack.md": "12bf69439480fab3111f4b513118be0128ad574dd9d0aecd199ea37d0f75c4b2",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/dialog.md": "b8ac45054125a6aed66c5df682200c74440336d0584d7e1894078954c719200a",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/lifecycle-owner.md": "45e204c1494179deadb56e9b544c78c6f6f17be4d3d660d841a5db5e4245038f",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/material-listdetail.md": "e4781cf0fc691f92c202400a07ebc80424666681f9547e757f660388252cdb29",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/material-supportingpane.md": "f0dc47a8d0aaceeefc6a48bf73563b3f9449e608c2ef71140acd5dcd13377e6d",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/modular-hilt.md": "1c306c7f687148c9455d6df7be1f692dda9308b85f0ab40b400b9e0926a898a2",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/modular-koin.md": "6d8a7925dba9eb06d7e0fbcb9aa92f025cb58fdc09b42c0496f52cf77266f6cd",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/multiple-backstacks.md": "571f6147f90e1b16aa883ef790b27b6bce58fc7250158077f1d5e5624470fca4",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/passingarguments.md": "bc53a9bbabb799865bf8bc3130faeae6e6d2b2838c3e44f48574443b6467e0a5",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/results-event.md": "e3f3371d6c5f06a3696c2f90f095bd5c530abd1a8dc59e666631b4e1d2926589",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/results-state.md": "17fbf45258b3c928e300adfa07ec320ffbd591e3209236499c74bbb736a1acec",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/scenes-listdetail.md": "2a19b4d03973c179eb4e4be8f95f9b728af34b55015619dde73dcd72af916e8c",
+      ".agents/skills/navigation-3/references/android/guide/navigation/navigation-3/recipes/scenes-twopane.md": "d0cb99ae3054cf463a598fd348d3d9a07aa4b6805ab22121bdc11561a60b1f64",
+      ".agents/skills/navigation-3/references/android/guide/navigation/type-safe-destinations.md": "ad5f13e3d5ee1bc849d2da5941d4f99a3e2a5748d52fcdfde96d1bc21bf47acb"
+    }
+  },
+  "local_skills": [
+    "jumpguru-measurement",
+    "jumpguru-android-ble",
+    "jumpguru-delivery"
+  ]
+}
