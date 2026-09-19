@@ -2,7 +2,7 @@
 
 ## Цель и контекст
 
-Читайте README.md, docs/roadmap.md и файл своей задачи. Для измерений обязательно
+Читайте README.md, docs/roadmap.md и свою задачу в GitHub Issues. Для измерений обязательно
 docs/measurement.md; для BLE — docs/hardware.md; для интеграции — docs/architecture.md.
 Для дизайна и UI читайте docs/ui-ux.md и `.agents/skills/jumpguru-ui-ux/SKILL.md`.
 Удобный современный интерфейс — отдельная цель; визуальные решения не скрывают
